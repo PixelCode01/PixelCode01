@@ -15,7 +15,7 @@
 
 ## About Me
 
-- 👋 Hey, I'm a high school student from India.
+- 👋 Hey, I'm a College from India.
 - 👨‍💻 I'm passionate about programming and self-taught in various programming languages and technologies.
 - 🌱 Currently expanding my knowledge and skills in open source contributions.
 - ☕ Always eager to learn and explore new things in the world of technology.
