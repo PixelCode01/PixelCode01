@@ -2,11 +2,6 @@
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<p align="center"> 
-  <b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/PixelCode01/count.svg" />
-</p>
-
 ## About Me
 
 - 👋 Hey, I'm a College Student from India.
@@ -29,12 +24,3 @@
 
 <h2></h2>
 
-<div align="center">
-  <h2> <strong> 🏆 My GitHub Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/PixelCode01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PixelCode01&count_private=true&hide_border=true&theme=night_vibe"/>
-  </a>
-  <a href="https://github.com/PixelCode01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelCode01&layout=compact&langs_count=8&theme=night_vibe"/>
-  </a>
-</div> 
